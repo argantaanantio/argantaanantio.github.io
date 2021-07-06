@@ -1,0 +1,49 @@
+header {
+	background-color: #284b63;
+	padding: 10px;
+	color: white;
+	list-style-type: none;
+	font-size: 25px;   
+}
+header p {
+	font-size: 15px;
+	color: white;
+}
+header p:hover {
+	opacity: 0.7;
+}
+header ul li   {
+	margin: 0px;
+	display: inline-block;
+	padding: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+body {
+	font-family: arial;
+	border-width: 10px;
+	margin: 0px;
+	border-style: solid, border-color: #333 ;
+	font-size: 18px;
+	margin-left: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	background-color: #9caea9;
+}
+p {
+	color: black;
+}
+p nav li a {
+	color: black;
+}
+footer {
+    background-color: #284b63;
+	padding: 10px;
+	color: white;
+	padding-bottom: 0px;
+
+}
+article header a {
+	color: white;
+}
